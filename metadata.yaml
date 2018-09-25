@@ -1,5 +1,5 @@
 _repo: The-Old-and-the-New-Magic_57077
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Carus, Paul
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '25540'
     url: http://www.gutenberg.org/2009/agents/25540
     wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
+covers:
+- cover_type: archival
+  image_path: 57077-h/images/cover.jpg
 creator:
   author:
     agent_name: Evans, Henry Ridgely
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '42705'
     url: http://www.gutenberg.org/2009/agents/42705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57077#The-Old-and-the-New-Magic
 gutenberg_issued: '2018-05-01'
 gutenberg_type: Text
 identifiers:
